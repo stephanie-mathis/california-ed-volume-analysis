@@ -45,6 +45,8 @@ A subset of facilities falls within the top 5% of operational strain, indicating
 
 - The busiest hospital, Martin Luther King, Jr. Community Hospital, reported 109,217 visits in 2023, accounting for approximately 4.24% of total LA County ED volume. This is an increase from 2022, where total visits were 99,493.
 
+- Palmdale Regional Medical Center stands out among high-growth facilities, with ED visits increasing from 62,297 in 2022 to 80,002 in 2023, alongside elevated Visits Per Station (2,286) and overlapping primary care and mental health provider shortages — a combination that suggests rising demand may be outpacing both internal capacity and access to community-based care.
+
 - Other high-volume facilities include Los Angeles General Medical Center (4.15%), Antelope Valley Medical Center (4.04%), Kaiser Foundation Hospital – Downey (3.64%), and Providence Holy Cross Medical Center (3.46%).
 
 ### Operational Strain & Contributing Factors
