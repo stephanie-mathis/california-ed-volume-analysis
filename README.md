@@ -64,7 +64,7 @@ These hospitals are most likely to experience overcrowding, longer wait times, a
 
 - Monterey Park Hospital ranks second in Visits Per Station, driven in part by a reduction in ED stations from 6 to 5 in 2023, while total ED visits continued to increase year-over-year. This combination of reduced capacity and rising demand directly contributes to elevated operational strain, despite no reported provider shortage in the area.
 
-- Providence Holy Cross Medical Center has seen steady increases in ED volume, with a 26% rise from 2021 to 2022 and an 8% increase from 2022 to 2023. The hospital also experienced a 37% increase in substance use visits, the highest increase among its diagnosis categories. As demand continues to grow without a corresponding increase in capacity, this contributes to elevated Visits Per Station and overall strain.
+- Providence Holy Cross Medical Center has seen steady increases in ED volume, with a 26% rise from 2021 to 2022 and an 8% increase from 2022 to 2023. The hospital also experienced a 38% increase in substance use visits, the highest increase among its diagnosis categories. As demand continues to grow without a corresponding increase in capacity, this contributes to elevated Visits Per Station and overall strain.
 
 ## Recommendations
 
