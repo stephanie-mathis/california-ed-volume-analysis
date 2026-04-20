@@ -17,12 +17,15 @@ Insights and analysis are focused on the following key areas:
 
 This analysis is intended to support hospital leadership in making informed, proactive decisions around resource allocation, capacity planning, and operational strategy.
 
+[View SQL Queries](ca_la_ed_analysis.sql)
+
 ## Data Structure & Initial Checks
 
 The dataset consists of two primary tables: hospitals and emergency_stats, joined by a shared hospital identifier (oshpd_id). Together, these tables provide both static hospital attributes and yearly emergency department performance metrics.
 
 - The hospitals table contains descriptive information about each facility, including location, ownership, and classification.
 - The emergency_stats table contains yearly emergency department data, including visit volume, capacity indicators, and operational metrics.
+
 
 ## Executive Summary
 Los Angeles County accounts for the largest share of emergency department (ED) visits in California, handling approximately 23% of total statewide volume in 2023. While overall growth has stabilized year-over-year with only a 0.11% increase from 2022 to 2023, demand remains highly concentrated across a small number of hospitals, several of which are operating above average capacity based on Visits Per Station.
