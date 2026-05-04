@@ -19,6 +19,8 @@ This analysis is intended to support hospital leadership in making informed, pro
 
 [View SQL Queries](ca_la_ed_analysis.sql)
 
+View the Tableau Story here: [Tableau Public Story](https://public.tableau.com/app/profile/stephanie.mathis/viz/LA_ED_Growth/LosAngelesCountyEDAnalysis?publish=yes)
+
 ## Data Structure & Initial Checks
 
 The dataset consists of two primary tables: hospitals and emergency_stats, joined by a shared hospital identifier (oshpd_id). Together, these tables provide both static hospital attributes and yearly emergency department performance metrics.
